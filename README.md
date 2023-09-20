@@ -1,7 +1,7 @@
 # Enhancing Customer Retention through Churn Analysis in Telecom (Final Year School Project)
 
 # Overview
-This final year school project focuses on the critical objective of predicting and mitigating customer churn in the telecommunications industry. Customer attrition is a significant concern for telecom companies, and this project delves into understanding the factors that drive churn and devising targeted strategies to enhance customer retention.
+This final year school project focuses on the critical objective of analysing customer churn in the telecommunications industry. Customer attrition is a significant concern for telecom companies, and this project delves into understanding the factors that drive churn and devising targeted strategies to enhance customer retention.
 
 # Course Goal
 The project aligns with the course goal, C3, which emphasizes the ability to process and analyze data in a manner that leads to continuous learning and professional development.
