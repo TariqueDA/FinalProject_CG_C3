@@ -6,7 +6,7 @@ This final year school project focuses on the critical objective of analysing cu
 # Course Goal
 The project aligns with the course goal, C3, which emphasizes the ability to process and analyze data in a manner that leads to continuous learning and professional development.
 
-#Introduction and Telecom Data Analysis
+# Introduction and Telecom Data Analysis
 
 Anticipating and minimizing customer attrition is essential for telecom companies to maintain a loyal customer base. Retaining existing customers is often more cost-effective than acquiring new ones. This analysis involves studying various customer attributes, such as demographic details, account-related data, and service utilization specifics. The goal is to derive data-driven solutions that effectively reduce churn, leading to increased customer satisfaction and higher corporate revenue.
 
